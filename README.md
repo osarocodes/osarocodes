@@ -4,6 +4,8 @@
 
 I'm a full stack developer focused on building purposeful web applications with the **MERN stack** (MongoDB, Express.js, React, Node.js). I believe technology is a powerful tool to **uplift communities**, and I’m here to build things that matter.
 
+[Download my resume](https://github.com/osarocodes/osarocodes/blob/main/osarocode_resume.pdf)
+
 ---
 
 ### 🧠 What I'm Learning
