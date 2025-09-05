@@ -49,6 +49,7 @@ I’m actively learning, building, and sharing my journey. Feel free to:
 
 [![osarocodes' github stats](https://github-readme-stats.vercel.app/api?username=osarocodes&show_icons=true&theme=cobalt)](https://github.com/osarocodes/github-readme-stats)
 
+![](https://visitor-badge.laobi.icu/badge?page_id=osarocodes.readme)
 <!--
 **osarocodes/osarocodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
