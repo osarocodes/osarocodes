@@ -47,7 +47,7 @@ I’m actively learning, building, and sharing my journey. Feel free to:
 
 > 💡 *“I see tech as a liberator — a way to empower those living below the standard of living. I want to be a part of that revolution.”*
 
-
+[![osarocodes' github stats](https://github-readme-stats.vercel.app/api?username=osarocodes&show_icons=true&theme=cobalt)](https://github.com/osarocodes/github-readme-stats)
 
 <!--
 **osarocodes/osarocodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
